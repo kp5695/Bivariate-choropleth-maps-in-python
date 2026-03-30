@@ -1,4 +1,4 @@
-# Bivariate Climate Map — Temperature × Precipitation
+# Bivariate Climate Map - Temperature × Precipitation
 
 This project visualises the relationship between two climate variables simultaneously using a bivariate choropleth map, originally created for North America and adapted here for the contiguous United States. Rather than mapping temperature and precipitation separately, a 4×4 colour matrix encodes both dimensions at once, revealing patterns like the hot-dry Southwest, the cold-wet Pacific Northwest, and the humid Southeast in a single glance.
 
@@ -11,4 +11,4 @@ This project visualises the relationship between two climate variables simultane
 
 ## Credits
 
-Original notebook and map concept by @milanjanosov. Adapted and extended with a custom red-yellow-blue bivariate palette, revised layout (map + external legend), and region-specific tuning for the USA.
+I adapted the original work by @milanjanosov by focusing on the North American Region and United States.
