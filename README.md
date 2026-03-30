@@ -11,4 +11,4 @@ This project visualises the relationship between two climate variables simultane
 
 ## Credits
 
-Original notebook and map concept by @milanjanosov. Adapted and extended with a custom red-yellow-blue bivariate palette, revised layout (map + external legend), and region-specific tuning for the USA.
+I adapted the original work by @milanjanosov by focusing on the North American Region and United States.
